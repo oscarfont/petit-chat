@@ -1,0 +1,6 @@
+[submodule "the-petit-chat"]
+	path = the-petit-chat
+	url = git@github.com:oscarfont/the-petit-chat.git
+[submodule "the-petit-chat-backend"]
+	path = the-petit-chat-backend
+	url = git@github.com:oscarfont/the-petit-chat-backend.git
